@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5c58f3ac7ef3879d1bca",
+    "revision": "d5756bfa50fdabe57881",
     "url": "/movie-chael/static/css/main.c40e19e9.chunk.css"
   },
   {
-    "revision": "5c58f3ac7ef3879d1bca",
-    "url": "/movie-chael/static/js/main.5c58f3ac.chunk.js"
+    "revision": "d5756bfa50fdabe57881",
+    "url": "/movie-chael/static/js/main.d5756bfa.chunk.js"
   },
   {
     "revision": "8ea8bb999b24eb958400",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/movie-chael/static/media/search.b98b9440.svg"
   },
   {
-    "revision": "29b9eba2b70d7288510f6a65ac70c547",
+    "revision": "4940b340a4747f3c84b61f3f3cc11891",
     "url": "/movie-chael/index.html"
   }
 ];
