@@ -7,7 +7,7 @@ import "./App.css";
 import SearchIcon from "./search.svg";
 //bdb531ed
 
-const API_URL = "http://www.omdbapi.com?apikey=bdb531ed";
+const API_URL = "https://www.omdbapi.com?apikey=bdb531ed";
 
 const movie1 = {
   Title: "Batman v Superman: Dawn of Justice",
@@ -48,7 +48,7 @@ const App = () => {
         <img src={SearchIcon} alt="search" onClick={() => searchMovies(searchTerm)} />
       </div>
 
-      {movies?.length > 0 ? (
+      {movies.length > 0 ? (
         <div className="container">
           {movies.map((movie) => (
             <MovieCard movie={movie} />

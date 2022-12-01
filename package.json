@@ -2,7 +2,7 @@
   "name": "my_react_proj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kemikalman26.github.io",
+  "homepage": "https://kemikalman26.github.io/movie-chael",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
